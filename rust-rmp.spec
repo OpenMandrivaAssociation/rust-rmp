@@ -5,8 +5,8 @@
 %global crate rmp
 
 Name:           rust-%{crate}
-Version:        0.8.9
-Release:        2%{?dist}
+Version:        0.8.15
+Release:        1%{?dist}
 Summary:        Pure Rust MessagePack serialization implementation
 
 # Upstream license specification: MIT
